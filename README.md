@@ -45,9 +45,13 @@ Soon, I will upload my Machine Learning Personal Projects on github.
   </a>  
 </p>
  
- ### Machine Learning
+ ### Artificial Intelligence
  
-<img src="https://media.tenor.com/images/45beaa2294f58d0be37bc53843fb2e5a/tenor.gif" height="70" />
+ * Simple Face Detection *(Using opencv library)*
+ * COVID-19 Predictor *(Using Single Feature)*
+ * Speech To Text *(Using google cloud library)*
+ * Iris Flower Classifier *(Using scikit-learn library)*
+ 
 
 ## 📫 How to reach me:
 
