@@ -51,6 +51,7 @@ Soon, I will upload my Machine Learning Personal Projects on github.
  * COVID-19 Predictor *(Using Single Feature)*
  * Speech To Text *(Using google cloud library)*
  * Iris Flower Classifier *(Using scikit-learn library)*
+ * Real Estate Price Predictor *(Using Linear Regression)*
  
 
 ## 📫 How to reach me:
