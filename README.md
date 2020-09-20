@@ -52,7 +52,7 @@ Soon, I will upload my Machine Learning Personal Projects on github.
  * Speech To Text *(Using google cloud library)*
  * Iris Flower Classifier *(Using scikit-learn library)*
  * Real Estate Price Predictor *(Using Linear Regression)*
- 
+ * Supermarket Sales Data Analysis *(Data Analysis)*
 
 ## 📫 How to reach me:
 
