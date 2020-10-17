@@ -22,9 +22,6 @@ Soon, I will upload my Machine Learning Personal Projects on github.
   <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" >
-    <img src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" height="70" />
-  </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://www.designmantic.com/images/images3/HTML5LOGOMaker-Icon-Sample.gif"  height="80" /> 
   </a>
