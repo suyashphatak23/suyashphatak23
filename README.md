@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hello Friends :innocent: !!! I am [Suyash](https://www.linkedin.com/in/suyash-phatak-a6497518b/) from [India](https://en.wikipedia.org/wiki/India), a computer science and engineering student currently studying at [Symbiosis Institute of Technology](https://www.sitpune.edu.in/). Currently, I am studying Machine Learning. I have solid control over [Python](https://python.org/). Also, I have experience in Frontend Web Development that is in HTML, CSS, Javascript, Jquery, Bootstrap.
+Hello Friends :innocent: !!! I am [Suyash](https://www.linkedin.com/in/suyash-phatak-a6497518b/) from [India](https://en.wikipedia.org/wiki/India), a computer science and engineering student currently studying at [Symbiosis Institute of Technology](https://www.sitpune.edu.in/). Currently, I am studying Machine Learning. I have solid control over [Python](https://python.org/). Also, I have experience in Frontend Web Development that is in HTML, CSS, Javascript, Jquery, Bootstrap. I have created several websites using python-web frameworks.
 
 Soon, I will upload my Machine Learning Personal Projects on github.
 
@@ -33,6 +33,9 @@ Soon, I will upload my Machine Learning Personal Projects on github.
   </a>
   <a href="https://getbootstrap.com/" target="_blank" >
     <img src="https://miro.medium.com/max/512/1*6fzxZyDPD_8RRsmHpQr-vw.gif" height="70" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" >
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="70" />
   </a>  
 </p>
  
