@@ -69,4 +69,4 @@ Soon, I will upload my Machine Learning Personal Projects on github.
 
 <img src="https://i.pinimg.com/originals/c6/56/80/c65680f2c2ea99c615faee18f9f62b25.gif" style="height:auto;width:100%;" />
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/suyashphatak23/suyashphatak23/blob/output/github-contribution-grid-snake.gif)
