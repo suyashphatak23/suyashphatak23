@@ -5,12 +5,6 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github.com/suyashphatak23/suyashphatak23/blob/output/github-contribution-grid-snake.gif" width=100% height=auto alt="snake_gif">
-</div>
-
-<hr>
-
 <h1 align="center">☎️ Contact Me</h1>
 <h3 align="center">😎 You can reach me by:</h3>
 <p align="center">
